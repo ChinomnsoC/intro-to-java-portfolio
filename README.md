@@ -34,4 +34,15 @@ First formal Computer Science course taken as a software engineer with 5 years o
 [Link to Linked Posts]
 
 ---
+
+## Academic Integrity Notice
+
+This repository contains coursework solutions for educational and portfolio purposes. If you're currently enrolled in CS162 or a similar course:
+
+- Use as a reference after completing your own work
+- Study the approach and design patterns
+- Do not copy code for your assignments
+- Violating academic integrity policies has serious consequences
+
+Please respect your institution's honor code.
 *Note: This coursework is shared for educational and portfolio purposes. Please adhere to your institution's academic integrity policies if you're currently taking this course.*
