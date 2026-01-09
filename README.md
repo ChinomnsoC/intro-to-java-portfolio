@@ -1,10 +1,16 @@
-# CS162: Introduction to Java
+# Java Fundamentals: CS162 Coursework
 
-Coursework from Colorado State University's CS162 course (Asynchronous, Fall 2025)
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]() [![OOP](https://img.shields.io/badge/OOP-Design_Patterns-blue?style=for-the-badge)]()
 
 ## About
 
-First formal Computer Science course taken as a software engineer with 5 years of Python experience but no academic CS background. Focused on learning Java fundamentals, OOP principles, and software engineering best practices.
+This repository contains my first experience of a formal Computer Science course taken as a software engineer with 5 years of Python experience but no academic CS background. I took this course to:
+
+- Learn Java fundamentals and ecosystem
+- Gain formal Computer Science education
+- Understand OOP design patterns deeply
+- Bridge the gap between self-taught and academic CS
 
 ## Course Topics
 
@@ -44,5 +50,4 @@ This repository contains coursework solutions for educational and portfolio purp
 - Do not copy code for your assignments
 - Violating academic integrity policies has serious consequences
 
-Please respect your institution's honor code.
 *Note: This coursework is shared for educational and portfolio purposes. Please adhere to your institution's academic integrity policies if you're currently taking this course.*
